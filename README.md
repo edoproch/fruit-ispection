@@ -1,4 +1,6 @@
-# fruit-ispection
+# fruit-inspection
+This project was done using OpenCV. The aim was to divide some fruits from their background and highlight some defects on the fruit's surfaces.
+The main techniques used include binarization, colour-based segmentation and edge detection
 
 In the folder the following files are present: 
 - fruit\ispection.ipynb 
@@ -9,3 +11,6 @@ In the folder the following files are present:
   This folder contais the images of each task
 - project.description.pdf
   This file contains all the project requirements
+
+## Author
+Edoardo Procino
